@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Research Career Companion"
+  short_description: "Grants, patents, jobs, teaching, collaboration"
+  brand_color: "#7D315C"

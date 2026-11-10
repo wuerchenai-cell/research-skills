@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Research Read"
+  short_description: "Paper, PDF, formula, figure reading"
+  brand_color: "#315C7D"

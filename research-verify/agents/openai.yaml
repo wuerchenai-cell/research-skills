@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Verify"
+  short_description: "Verify technical claims and parameters"
+  brand_color: "#315C7D"

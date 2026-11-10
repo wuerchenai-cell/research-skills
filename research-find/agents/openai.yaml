@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Find"
+  short_description: "Find and verify candidate materials"
+  brand_color: "#315C7D"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Compare"
+  short_description: "Compare papers by conditions"
+  brand_color: "#315C7D"

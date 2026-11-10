@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Library"
+  short_description: "Organize and recover materials"
+  brand_color: "#315C7D"
